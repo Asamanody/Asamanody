@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Esam Mohamed</h1>
-<h3 align="center">A passionate Android developer from Egypt</h3>
+<h3 align="center">A passionate software developer from Egypt</h3>
 
 - 🔭 I’m currently working on [In second delivery app](https://github.com/Asamanody/IN-SECOND)
 
-- 🌱 I’m currently learning **StateFlow**
+- 🌱 I’m currently learning **kotlin flow**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Asmanody](https://github.com/Asmanody)
 
