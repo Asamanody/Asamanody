@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Esam Mohamed</h1>
 <h3 align="center">A passionate software developer from Egypt</h3>
 
-- 🔭 I’m currently working on [services app] 
+- 🔭 I’m currently working on [onPay pos app] 
 
-- 🌱 I’m currently learning **kotlin flow**
+- 🌱 I’m currently learning **Pos business**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Asmanody](https://github.com/Asmanody)
 
