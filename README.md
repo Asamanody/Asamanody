@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [onPay pos app] 
 
-- 🌱 I’m currently learning **Pos business**
+- 🌱 I’m currently learning **jetback compose**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Asmanody](https://github.com/Asmanody)
 
