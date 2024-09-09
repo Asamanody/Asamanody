@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Esam Mohamed</h1>
 <h3 align="center">A passionate software developer from Egypt</h3>
 
-- 🔭 I’m currently working on [onPay agents app] 
+- 🔭 I’m currently working on ntg pos payment app 
 
 - 🌱 I’m currently learning **jetback compose**
 
