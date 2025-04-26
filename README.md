@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on ntg pos payment app 
 
-- 🌱 I’m currently learning **jetback compose**
+- 🌱 I’m currently learning **Emv card payment **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Asmanody](https://github.com/Asmanody)
 
